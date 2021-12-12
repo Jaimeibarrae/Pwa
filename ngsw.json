@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639342204175,
+  "timestamp": 1639342440494,
   "index": "https://jaimeibarrae.github.io/Pwa/index.html",
   "assetGroups": [
     {
@@ -68,8 +68,8 @@
     "https://jaimeibarrae.github.io/Pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://jaimeibarrae.github.io/Pwa/assets/logo.png": "ae0112141b65bdff1cf97a6459641110e3e8f522",
     "https://jaimeibarrae.github.io/Pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://jaimeibarrae.github.io/Pwa/firebase-messaging-sw.js": "ce66eaeaa1f54ee02a8500c2c9266d29d8fcf1f3",
-    "https://jaimeibarrae.github.io/Pwa/index.html": "7ca9c01bf5ded2c87e4269ee95fdc89cbae83642",
+    "https://jaimeibarrae.github.io/Pwa/firebase-messaging-sw.js": "371f848807807484a228223bad7ea25fa9520029",
+    "https://jaimeibarrae.github.io/Pwa/index.html": "bc881df5b4f7297904f113941b129fef6a2df287",
     "https://jaimeibarrae.github.io/Pwa/main.9fb2d8e19d08d224.js": "5d2c824b3fb2fc7362d0493d099b9ead6f82ec0d",
     "https://jaimeibarrae.github.io/Pwa/manifest.webmanifest": "999b929e3fbf2ea831cff5df30e0647f962f14c3",
     "https://jaimeibarrae.github.io/Pwa/polyfills.c8c1b7483d80fb30.js": "83e312e396a4b41e7404b17e399eac9387817c71",
